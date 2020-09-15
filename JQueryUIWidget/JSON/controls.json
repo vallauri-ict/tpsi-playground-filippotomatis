@@ -1,0 +1,5 @@
+{
+  "Elements" : ["First","Second","Third","Fourth"],
+  "Labels" : ["Radio Button", "Check Boxes", "Date Picker","Slider"],
+  "TypeControl" : ["radio","checkbox","datepicker","slider"]
+}

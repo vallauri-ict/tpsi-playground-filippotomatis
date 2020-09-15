@@ -1,0 +1,36 @@
+{
+  "dati": [
+    {
+      "h3":"Si vis pacem, para bellum",
+      "div":"Se vuoi la pace, prepara la guerra"
+    },
+    {
+      "h3":"Labor omnia vincit ",
+      "div":"La fatica vince ogni cosa"
+    },
+    {
+      "h3":"Nemo propheta in patria",
+      "div":"Nessuno è profeta nella propria patria"
+    },
+    {
+      "h3":"Melius abundare quam deficere ",
+      "div":"Meglio abbondare che scarseggiare"
+    },
+    {
+      "h3":"Amicus omnibus, amicus nemini",
+      "div":"Amico di tutti, amico di nessuno"
+    },
+    {
+      "h3":"Corruptissima re publica plurimae leges",
+      "div":"Moltissime sono le leggi quando lo Stato è corrotto"
+    },
+    {
+      "h3":"Repetita juvant",
+      "div":"Ripetere la stessa cosa, aiuta"
+    },
+    {
+      "h3":"lorem Ipsum",
+      "div":"Lorem ipsum dolor sit amet, consectetur adipisci elit, sed do eiusmod tempor incidunt ut labore et dolore magna aliqua.Ut enim ad minim veniam, quis nostrum exercitationem ullamco laboriosam, nisi ut aliquid ex ea commodi consequatur.Duis aute irure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+    }
+  ]
+}
